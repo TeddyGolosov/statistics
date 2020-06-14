@@ -1,0 +1,21 @@
+глагол;p-value;code
+интересовать;2.868e-05;X-squared = 17.503, df = 1, p-value = 2.868e-05
+стонать;2.521e-06;X-squared = 22.151, df = 1, p-value = 2.521e-06
+реветь;<2.2e-16;X-squared = 116.97, df = 1, p-value < 2.2e-16
+упр€митьс€;<2.2e-16;X-squared = 68.093, df = 1, p-value < 2.2e-16
+рычать;2.295e-14;X-squared = 58.261, df = 1, p-value = 2.295e-14
+звучать;0.7149;X-squared = 0.1334, df = 1, p-value = 0.7149
+качатьс€;0.01718;X-squared = 5.6777, df = 1, p-value = 0.01718
+артачитьс€;0.01414;X-squared = 6.0205, df = 1, p-value = 0.01414
+интересовать;0.01276;X-squared = 6.202, df = 1, p-value = 0.01276
+визжать;0.00197;X-squared = 9.5769, df = 1, p-value = 0.00197
+бастовать;0.0007411;X-squared = 11.383, df = 1, p-value = 0.0007411
+мЄрзнуть;0.0003188;X-squared = 12.957, df = 1, p-value = 0.0003188
+тр€сти;0.0001035;X-squared = 15.071, df = 1, p-value = 0.0001035
+шуметь;<2.2e-16;X-squared = 170.36, df = 1, p-value < 2.2e-16
+сме€тьс€;<2.2e-16;X-squared = 1160.9, df = 1, p-value < 2.2e-16
+плакать;<2.2e-16;X-squared = 921.01, df = 1, p-value < 2.2e-16
+орать;< 2.2e-16;X-squared = 482.08, df = 1, p-value < 2.2e-16
+играть; 7.147e-08;X-squared = 29.025, df = 1, p-value = 7.147e-08
+блестеть;1;X-squared = 4.0347e-27, df = 1, p-value = 1
+все вместе;< 2.2e-16;X-squared = 2389.6, df = 1, p-value < 2.2e-16
