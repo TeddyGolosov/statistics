@@ -1,0 +1,20 @@
+﻿V-past;V_pst;za_V_pst;V_imp;za_V_imp;act;lex
+смеял(ся, ась, ось, ись);13 303;14 673;1 212;40;EPa;HumManner
+плакал(а, о, и);14 573;7 386;2 084;37;EPa;HumManner
+орал(а, о, и);3 408;3 917;461;4;Epa;SoundSpeech
+интереовал(ся/ась/ось/ись);4 234;2 670;27;5;ESGen;HumRel
+играл(а, о, и);28 361;2 439;1 080;39;Epa;OtherHumActivity
+интересовал(а, о, и);4 626;2 008;0;9;ESGen;HumRel
+мёрз(ла, ли, ло);645;1 996;16;13;ES;HumPhys
+стонал;2 253;1 719;38;2;EPa;Sound
+ревел;1 918;1 477;181;6;EPa;Sound
+звучал;8 011;1 465;18;2;EPa;Sound
+шумел;3 914;1 459;508;5;EPa;Sound
+блестел;4 386;1 148;9;2;ES;Visual
+визжал;1 299;1 093;19;2;EMult;Sound
+качался;1 800;862;23;2;EMult;MotOther
+рычал;816;821;68;2;EPa;Sound
+тряс;1 899;700;67;4;EMult;MotOther
+бастовал;216;445;10;2;EHab;OtherHumActivity
+упрямился;186;277;60;2;ES;HumManner
+артачился;33;155;4;2;ES;HumManner
